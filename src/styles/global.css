@@ -1,6 +1,13 @@
 :root {
   --primary-color: #23272a;
   --secondary-color: #ffffff;
+}
 
-  --bg-color: ##f6f6f6;
+.body {
+  font-family: Open;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0%;
 }
